@@ -1,8 +1,11 @@
-This project involved developing a custom MATLAB script that implements the AES (Advanced Encryption Standard) 
-algorithm to provide secure encryption and decryption of text files. The script reads plain text files, 
-encrypts their content using AES encryption, and then writes the encrypted data to a new file. 
-It also includes functionality to decrypt encrypted files back into readable plain text.
+This project is a GUI-based file encryption and decryption tool developed in MATLAB, 
+supporting multiple cryptographic algorithms including AES, DES, and RC4. 
+The application allows users to securely encrypt and decrypt text files through an intuitive graphical interface.
 
-The primary goal of the project was to explore the application of cryptographic principles 
-using MATLAB and demonstrate how file-based data can be securely handled using symmetric encryption techniques. 
-This project showcases skills in cryptography, file handling, and algorithmic implementation within MATLAB.
+Users can select a text file, choose the desired encryption method, 
+and then perform encryption or decryption operations seamlessly. 
+The encrypted or decrypted content is saved as a new file, ensuring data integrity and confidentiality. 
+The project highlights a strong understanding of cryptographic standards and GUI development in MATLAB, 
+with practical implementation of file I/O, algorithm selection, and user-friendly interaction.
+
+This tool demonstrates applied knowledge in cybersecurity, data protection, and software development within a MATLAB environment.
