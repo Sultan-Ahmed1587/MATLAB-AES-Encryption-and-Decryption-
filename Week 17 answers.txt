@@ -1,0 +1,11 @@
+DataHash("readme.txt, SHA-256 ,file")
+
+ans =
+
+    '62fd09203e01009f34b1439ee584f2e1'
+
+DataHash("abc, SHA-256 ,ascii")
+
+ans =
+
+    'ae42e6e41b11c1508becfb592c5beb55'
